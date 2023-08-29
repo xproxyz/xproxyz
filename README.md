@@ -1,4 +1,4 @@
-### Olá! Eu sou o Bruno lima👋
+### Olá!👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brunoapenasss)
 
